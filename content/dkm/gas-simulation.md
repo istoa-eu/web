@@ -19,11 +19,15 @@ parois, y compris l'enceinte, s'ajuste à la souris. Un nombre
 arbitraire de sondes de température couvrant des zones rectangulaires
 est également disponible.
 
+![Gas Simulation](/dkm/gas-simulation.png#center)
+
 
 ```st
-| figure |
-figure := DrGeoFigure new.
-figure segmentDe: 1@2 à: 5@3.
+GasSimulation new
+	fenceOrigin: 0@0 corner: 300@200;
+	addWallFrom: 100@0 to: 80@85;
+	addWallFrom: 100@200 to: 80@105;
+	addMolecules: 50
 ```
 
 
