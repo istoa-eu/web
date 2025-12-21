@@ -16,7 +16,7 @@
     </h1>
     {{- if .Description }}
     <div class="post-description">
-      {{ .Description }}
+      {{ .Description }} 
     </div>
     {{- end }}
     {{- if not (.Param "hideMeta") }}
@@ -24,7 +24,7 @@
       {{- partial "post_meta.html" . -}}
       {{- partial "translation_list.html" . -}}
       {{- partial "edit_post.html" . -}}
-      {{- partial "post_canonical.html" . -}}
+      {{- partial "post_canonical.html" . -}} 
     </div>
     {{- end }}
   </header>
@@ -42,15 +42,9 @@
   </div>
   {{- end }}
 
- Covered cost: {{ .Params.Financed }} / {{ .Params.Cost }} €
- </br>
- License:
- {{ if (lt .Params.Financed .Params.Cost) }}
- <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC by-nc-nd</a>
- {{ else }}
- <a href="https://www.gnu.org/licenses/lgpl-3.0.html#license-text">LGPL</a>
- {{ end }}
-  <footer class="post-footer">
+{{ partial "dkm_meta.html" . }}
+  
+ <footer class="post-footer">
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
     <ul class="post-tags">
       {{- range ($.GetTerms $tags) }}
