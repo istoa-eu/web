@@ -1,6 +1,5 @@
 ---
 date: 2025-12-14T13:20:57+01:00
-draft: false
 title: Simulateur de gaz
 source: http://source.st
 cost: 2750
