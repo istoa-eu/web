@@ -1,11 +1,18 @@
+{{ $dkmStatus := dict
+   "developed" "Développé"
+   "project" "En projet"
+   "progress" "En cours de développement"
+   "improvment" "Amélioration" }}
+
 <div class="post-meta">
-v. {{ .Params.Version }} - api {{ .Params.ApiVersion }}</br>
- License:
+  v. {{ .Params.Version }} - api {{ .Params.ApiVersion }}</br>
+ Statut : {{ index $dkmStatus .Params.status }} </br>
+ License :
  {{ if (lt .Params.Financed .Params.Cost) }}
  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC by-nc-nd</a>
  {{ else }}
  <a href="https://www.gnu.org/licenses/lgpl-3.0.html#license-text">LGPL</a>
  {{ end }}</br>
- Source: <a href="{{ .Params.source }}">{{ .Params.source }}</a></br>
- Covered cost: {{ .Params.Financed }} / {{ .Params.Cost }} €
+ Source : <a href="{{ .Params.source }}">{{ .Params.source }}</a></br>
+ Coût couvert : {{ .Params.Financed }} / {{ .Params.Cost }} €
 </div>

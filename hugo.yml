@@ -2,7 +2,16 @@ baseURL: "https://examplesite.com/"
 title: iStoa
 pagination:pagerSize: 5
 theme: PaperMod
-defaultContentLanguage: fr
+
+
+DefaultContentLanguage: en
+languages:
+  en:
+    languageName: English
+    weight: 10
+  fr:
+    languageName: Français
+    weight: 20
 
 
 enableRobotsTXT: true

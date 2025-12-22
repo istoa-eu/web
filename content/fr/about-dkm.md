@@ -1,6 +1,5 @@
 ---
 date: 2025-12-15T20:48:49+01:00
-draft: false
 title: iStoa
 ---
 

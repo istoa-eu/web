@@ -2,6 +2,7 @@
 date: 2025-12-14T13:20:57+01:00
 title: Simulateur de gaz
 source: http://source.st
+status: "developed" # developed | project | progress | improvement
 cost: 2750
 financed: 80
 author: Hilaire Fernandes
@@ -24,10 +25,10 @@ est également disponible.
 
 ```st
 GasSimulation new
-	fenceOrigin: 0@0 corner: 300@200;
-	addWallFrom: 100@0 to: 80@85;
-	addWallFrom: 100@200 to: 80@105;
-	addMolecules: 50
+   fenceOrigin: 0@0 corner: 300@200;
+   addWallFrom: 100@0 to: 80@85;
+   addWallFrom: 100@200 to: 80@105;
+   addMolecules: 50
 ```
 
 
