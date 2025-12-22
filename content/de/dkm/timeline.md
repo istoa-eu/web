@@ -1,18 +1,19 @@
 ---
-date: 2025-12-14T13:20:57+01:00
-title: Frise chronologique
+date: 2025-12-22
+title: Zeitleiste
 source: 
 status: "developed" # developed | project | progress | improvement
 author: Hilaire Fernandes
 version: "1.0"
 apiVersion: "25.11"
+
 cost: 1600
 financed: 105
 ---
-Le modèle permet de représenter une frise chronologique avec un nombre
-arbitraire d'événements. Chaque événement comprend une date et une
-description. Une frise d'événements très dispersés se comprime avec le
-message ```shrink```.
+Das Modell ermöglicht die Darstellung einer Zeitleiste mit einer
+beliebigen Anzahl von Ereignissen. Jedes Ereignis umfasst ein Datum
+und eine Beschreibung. Eine Zeitleiste mit weit verstreuten
+Ereignissen lässt sich mit der Nachricht ```shrink``` komprimieren.
 
 ![Timeline](/dkm/timeline.png#center)
 

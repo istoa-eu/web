@@ -5,14 +5,50 @@ theme: PaperMod
 
 
 DefaultContentLanguage: en
+
 languages:
   en:
+    contentDir: content/en
     languageName: English
+    languageCode: en
     weight: 10
+    params:
+       subtitle: simulations for learning
   fr:
+    contentDir: content/fr
     languageName: Français
+    languageCode: fr
     weight: 20
-
+    params:
+       subtitle: simulations pour apprendre
+  es:
+    contentDir: content/es
+    languageName: Español
+    languageCode: es
+    weight: 30
+    params:
+        subtitle: simulaciones para aprender
+  de:
+    contentDir: content/de
+    languageName: Deutsch
+    languageCode: de
+    weight: 40
+    params:
+        subtitle: Simulationen zum Lernen
+  zh-cn:
+    contentDir: content/zh-CN
+    languageName: 简体中文
+    languageCode: zh-cn
+    weight: 50
+    params:
+        subtitle: 用于学习的模拟
+  zh-tw:
+    contentDir: content/zh-TW
+    languageName: 繁體中文
+    languageCode: zh-tw
+    weight: 60
+    params:
+        subtitle: 用於學習的模擬
 
 enableRobotsTXT: true
 buildDrafts: false

@@ -1,6 +1,6 @@
 ---
-date: 2025-12-14T13:20:57+01:00
-title: Frise chronologique
+date: 2025-12-22
+title: Timeline
 source: 
 status: "developed" # developed | project | progress | improvement
 author: Hilaire Fernandes
@@ -9,10 +9,10 @@ apiVersion: "25.11"
 cost: 1600
 financed: 105
 ---
-Le modèle permet de représenter une frise chronologique avec un nombre
-arbitraire d'événements. Chaque événement comprend une date et une
-description. Une frise d'événements très dispersés se comprime avec le
-message ```shrink```.
+The model allows representing a timeline with an arbitrary number of
+events. Each event includes a date and a description. A timeline with
+very scattered events can be compressed using the ```shrink```
+message.
 
 ![Timeline](/dkm/timeline.png#center)
 

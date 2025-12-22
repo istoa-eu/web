@@ -1,38 +1,43 @@
 ---
-date: 2025-12-16T22:34:52+01:00
-title: À-propos d'iStoa
+date: 2025-12-22
+title: About iStoa
 ---
 
-iStoa est né des [travaux de
-recherche](https://theses.fr/2010LIL10028) d'Hilaire Fernandes sur les
-environnements d'apprentissage. Un aspect des travaux portait sur les
-[artefacts comme objets d'apprentissage](https://rmod-files.lille.inria.fr/Team/Texts/Papers/Fern08a-C5-istoa-exercises.pdf). 
+iStoa was born from the [research
+work](https://theses.fr/2010LIL10028) of Hilaire Fernandes regarding
+learning environments. One aspect of this work focused on [artifacts
+as learning
+objects](https://rmod-files.lille.inria.fr/Team/Texts/Papers/Fern08a-C5-istoa-exercises.pdf).
 
-Ces artefacts, pour répondre à la grande variété des situations
-d'apprentissage, sont paramétrables ; ainsi, il s'inscrivent dans
-divers scénarios pédagogiques conçus par le pédagogue dans un
-environnement d'apprentissage dédié.
+To address the wide variety of learning situations, these artifacts
+are customizable; thus, they can be integrated into various
+pedagogical scenarios designed by educators within a dedicated
+learning environment.
 
-Les DKM reprennent cette idée de scénarisation de la connaissance pour
-des simulations dynamiques, aussi nommés micro-mondes. La
-scénarisation ne se fait plus par paramètres mais par un script
-offrant une plus grand généralité. Les DKM reprennent les travaux
-autour des scripts développés dans notre projet
-[Dr. Geo](http://gnu.org/s/dr-geo) et leurs utilisations dans des cours
-d'initiation à la [programmation avec des élèves du secondaire
-I](https://gnu-drgeo.blogspot.com/search/label/DrGeoKid).
+### Dynamic Knowledge Modules (DKM)
 
-Nous pensons qu'une culture numérique, enrichie par le code, renforce
-la culture générale et l'appropriation des connaissances, et
-particulièrement les sciences, mais pas uniquement. Ecrire un petit
-programme mobilise et renforce des notions en mathématiques,
-planification, rigueur, communication, regard critique.
+The DKMs build upon this idea of knowledge scripting for **dynamic
+simulations**, also known as **micro-worlds**. Scripting is no longer
+done through simple parameters but via a script that offers greater
+flexibility. The DKMs incorporate the scripting work developed in our
+[Dr. Geo](http://gnu.org/s/dr-geo) project and their use in
+introductory [programming courses for secondary school
+students](https://gnu-drgeo.blogspot.com/search/label/DrGeoKid).
 
-Les DKM, par leur mode d'utilisation, ont aussi pour objet de
-renforcer ces aspects. 
+### Our Vision
 
-Nous utilisons l'environnement [Cuis-Smalltalk](http://cuis.st) comme
-plate-forme de développement et de distribution de nos logiciels. Il
-regroupe des fonctionnalités précieuses comme un accès aisé au code,
-la programmation vive, un environnement graphique vectoriel, une
-machine virtuelle optimisée pour plusieurs systèmes d'exploitations.
+We believe that a digital culture, **enriched by code**, strengthens
+general knowledge and the appropriation of information, particularly
+in the sciences, though not exclusively. Writing a small program
+mobilizes and reinforces several key notions in Mathematics, planning,
+rigor, communication, critical thinking.
+
+The DKMs, through their design and usage, are intended to reinforce these aspects.
+
+### Technical Environment
+
+We use the [Cuis-Smalltalk](http://cuis.st) environment as a
+development and distribution platform for our software. It brings
+together valuable features such as easy access to code, live
+programming, a vector graphics environment, a virtual machine
+optimized for multiple operating systems.

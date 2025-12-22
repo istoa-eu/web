@@ -1,6 +1,6 @@
 ---
 date: 2025-12-15T20:48:49+01:00
-title: iStoa
+title: DKM
 ---
 
 Nous développons des simulations dynamiques que nous appelons *Modèle

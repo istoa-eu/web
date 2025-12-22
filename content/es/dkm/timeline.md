@@ -1,21 +1,22 @@
 ---
-date: 2025-12-14T13:20:57+01:00
-title: Frise chronologique
+date: 2025-12-22
+draft: false
+title: Franja cronológica
 source: 
 status: "developed" # developed | project | progress | improvement
 author: Hilaire Fernandes
 version: "1.0"
 apiVersion: "25.11"
+
 cost: 1600
 financed: 105
 ---
-Le modèle permet de représenter une frise chronologique avec un nombre
-arbitraire d'événements. Chaque événement comprend une date et une
-description. Une frise d'événements très dispersés se comprime avec le
-message ```shrink```.
+El modelo permite representar una franja cronológica con un número
+arbitrario de eventos. Cada evento incluye una fecha y una
+descripción. Una franja con eventos muy dispersos se comprime con el
+mensaje ```shrink```.
 
 ![Timeline](/dkm/timeline.png#center)
-
 
 ```st
 Timeline title: 'Five Defining Moments of Alexander' ::

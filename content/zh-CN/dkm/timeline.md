@@ -1,6 +1,6 @@
 ---
-date: 2025-12-14T13:20:57+01:00
-title: Frise chronologique
+date: 2025-12-22
+title: 时间轴
 source: 
 status: "developed" # developed | project | progress | improvement
 author: Hilaire Fernandes
@@ -9,10 +9,8 @@ apiVersion: "25.11"
 cost: 1600
 financed: 105
 ---
-Le modèle permet de représenter une frise chronologique avec un nombre
-arbitraire d'événements. Chaque événement comprend une date et une
-description. Une frise d'événements très dispersés se comprime avec le
-message ```shrink```.
+该模型允许表示包含任意数量事件的时间轴。每个事件包括日期和描述。对于事
+件非常分散的时间轴，可以使用 ```shrink``` 消息进行压缩。
 
 ![Timeline](/dkm/timeline.png#center)
 
