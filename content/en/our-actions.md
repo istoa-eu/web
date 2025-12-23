@@ -2,7 +2,7 @@
 date: 2025-12-21T15:53:03+01:00
 title: Our Actions
 ---
-q
+
 We develop software and documentation for learning programming.
 
 * DKMs distributed within the *iStoa* simulation environment; see the
