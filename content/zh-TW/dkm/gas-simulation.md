@@ -1,14 +1,6 @@
 ---
 date: 2025-12-22
 title: 氣體模擬器
-source: http://source.st
-# status: developed | project | progress | improvement
-status: developed 
-cost: 2750
-financed: 80
-author: Hilaire Fernandes
-version: "1.0"
-apiVersion: "25.12"
 ---
 該模型允許定義一個矩形外殼以及任意數量的壁面和氬原子。該模型模擬了透過
 漫反射與壁面相互作用的**理想氣體**，或者同時具有壁面相互作用和

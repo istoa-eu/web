@@ -1,13 +1,6 @@
 ---
 date: 2025-12-22
 title: Timeline
-source: 
-status: "developed" # developed | project | progress | improvement
-author: Hilaire Fernandes
-version: "1.0"
-apiVersion: "25.11"
-cost: 1600
-financed: 105
 ---
 The model allows representing a timeline with an arbitrary number of
 events. Each event includes a date and a description. A timeline with

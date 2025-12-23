@@ -1,13 +1,6 @@
 ---
 date: 2025-12-22
 title: Simulador de gas
-source: http://source.st
-status: "developed" # developed | project | progress | improvement
-cost: 2750
-financed: 80
-author: Hilaire Fernandes
-version: "1.0"
-apiVersion: "25.12"
 ---
 El modelo permite definir un recinto rectangular y un número
 arbitrario de paredes y átomos de argón. El modelo simula **gases

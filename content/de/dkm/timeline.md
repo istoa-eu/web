@@ -1,14 +1,6 @@
 ---
 date: 2025-12-22
 title: Zeitleiste
-source: 
-status: "developed" # developed | project | progress | improvement
-author: Hilaire Fernandes
-version: "1.0"
-apiVersion: "25.11"
-
-cost: 1600
-financed: 105
 ---
 Das Modell ermöglicht die Darstellung einer Zeitleiste mit einer
 beliebigen Anzahl von Ereignissen. Jedes Ereignis umfasst ein Datum

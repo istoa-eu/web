@@ -1,13 +1,6 @@
 ---
 date: 2025-12-22
 title: Gas Simulator
-source: http://source.st
-status: "developed" # developed | project | progress | improvement
-cost: 2750
-financed: 80
-author: Hilaire Fernandes
-version: "1.0"
-apiVersion: "25.12"
 ---
 The model allows defining a rectangular enclosure and an arbitrary
 number of walls and argon atoms. The model simulates **ideal gases**

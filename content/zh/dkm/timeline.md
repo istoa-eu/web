@@ -1,13 +1,6 @@
 ---
 date: 2025-12-22
 title: 时间轴
-source: 
-status: "developed" # developed | project | progress | improvement
-author: Hilaire Fernandes
-version: "1.0"
-apiVersion: "25.11"
-cost: 1600
-financed: 105
 ---
 该模型允许表示包含任意数量事件的时间轴。每个事件包括日期和描述。对于事
 件非常分散的时间轴，可以使用 ```shrink``` 消息进行压缩。

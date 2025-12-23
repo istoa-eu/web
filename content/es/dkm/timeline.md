@@ -1,15 +1,6 @@
 ---
 date: 2025-12-22
-draft: false
 title: Franja cronológica
-source: 
-status: "developed" # developed | project | progress | improvement
-author: Hilaire Fernandes
-version: "1.0"
-apiVersion: "25.11"
-
-cost: 1600
-financed: 105
 ---
 El modelo permite representar una franja cronológica con un número
 arbitrario de eventos. Cada evento incluye una fecha y una

@@ -1,13 +1,6 @@
 ---
 date: 2025-12-22
 title: Gassimulator
-source: http://source.st
-status: "developed" # developed | project | progress | improvement
-cost: 2750
-financed: 80
-author: Hilaire Fernandes
-version: "1.0"
-apiVersion: "25.12"
 ---
 Das Modell ermöglicht es, ein rechteckiges Gehäuse und eine beliebige
 Anzahl von Wänden und Argonatomen zu definieren. Das Modell simuliert

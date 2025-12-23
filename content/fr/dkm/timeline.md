@@ -1,13 +1,6 @@
 ---
 date: 2025-12-14T13:20:57+01:00
 title: Frise chronologique
-source: 
-status: "developed" # developed | project | progress | improvement
-author: Hilaire Fernandes
-version: "1.0"
-apiVersion: "25.11"
-cost: 1600
-financed: 105
 ---
 Le modèle permet de représenter une frise chronologique avec un nombre
 arbitraire d'événements. Chaque événement comprend une date et une

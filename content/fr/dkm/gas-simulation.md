@@ -1,13 +1,6 @@
 ---
 date: 2025-12-14T13:20:57+01:00
 title: Simulateur de gaz
-source: http://source.st
-status: project # developed | project | progress | improvement
-cost: 2750
-financed: 80
-author: Hilaire Fernandes
-version: "1.0"
-apiVersion: "25.12"
 ---
 Le modèle permet de définir une enceinte rectangulaire et un nombre
 arbitraire de parois et d'atomes d'argon. Le modèle simule des **gaz
