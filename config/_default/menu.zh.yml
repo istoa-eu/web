@@ -1,0 +1,16 @@
+main:
+  - name: dkm
+    url: /dkm
+    weight: 10
+  - name: 下载
+    url: /download
+    weight: 20
+  - name: 提供帮助
+    url: /support-us
+    weight: 30
+  - name: 我们的行动
+    url: /our-actions
+    weight: 40
+  - name: 关于我们
+    url: /about
+    weight: 50

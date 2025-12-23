@@ -3,7 +3,6 @@ title: iStoa
 pagination:pagerSize: 5
 theme: PaperMod
 
-
 DefaultContentLanguage: en
 
 languages:
@@ -12,43 +11,81 @@ languages:
     languageName: English
     languageCode: en
     weight: 10
-    params:
-       subtitle: simulations for learning
   fr:
     contentDir: content/fr
     languageName: Français
     languageCode: fr
     weight: 20
     params:
-       subtitle: simulations pour apprendre
+      profileMode:
+        enabled: true
+        title: Modèle Dynamique de Connaissance
+        subtitle: simulations pour apprendre
+        buttons:
+          - name: dkm
+            url:  dkm
+          - name: télécharger
+            url:  download
   es:
     contentDir: content/es
     languageName: Español
     languageCode: es
     weight: 30
     params:
+      profileMode:
+        enabled: true
+        title: Modelos Dinámicos de Conocimiento
         subtitle: simulaciones para aprender
+        buttons:
+          - name: dkm
+            url: dkm
+          - name: descargar
+            url: download
   de:
     contentDir: content/de
     languageName: Deutsch
     languageCode: de
     weight: 40
     params:
+      profileMode:
+        enabled: true
+        title: Dynamische Wissensmodelle
         subtitle: Simulationen zum Lernen
-  zh-cn:
-    contentDir: content/zh-CN
+        buttons:
+          - name: dkm
+            url: dkm
+          - name: herunterladen
+            url: download
+  zh:
+    contentDir: content/zh
     languageName: 简体中文
-    languageCode: zh-cn
+    languageCode: zh
     weight: 50
     params:
+      profileMode:
+        enabled: true
+        title: 动态知识模型
         subtitle: 用于学习的模拟
+        buttons:
+          - name: dkm
+            url: dkm
+          - name: 下载
+            url: download
   zh-tw:
     contentDir: content/zh-TW
     languageName: 繁體中文
     languageCode: zh-tw
     weight: 60
     params:
+      profileMode:
+        enabled: true
+        title: 動態知識模型
         subtitle: 用於學習的模擬
+        buttons:
+          - name: dkm
+            url: dkm
+          - name: 下載
+            url: download
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -62,8 +99,6 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: iStoa
-  description: "simulations pour apprendre"
-  keywords: [Blog, Portfolio, PaperMod]
   author: hlsf
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -97,24 +132,18 @@ params:
     apple_touch_icon: "<link / abs url>"
     safari_pinned_tab: "<link / abs url>"
 
-#  label:
-#    text: "Accueil"
-#    icon: /apple-touch-icon.png
-#    iconHeight: 35
-
   # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
-    title: Modèle Dynamique de Connaissance
-    subtitle: "à portée de clavier"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
+    enabled: true
+    title: Dynamic Knowledge Model
+    subtitle: simulations for learning
+    imageUrl: "istoa.png"
+    imageWidth: 250
+    imageHeight: 150
     buttons:
-      - name: DKM
+      - name: dkm
         url:  dkm
-      - name: Télécharger
+      - name: download
         url:  download
 
   socialIcons:
@@ -152,29 +181,6 @@ params:
     minMatchCharLength: 0
     limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
-menu:
-  main:
-    - identifier: about
-      name: à-propos
-      url: /about
-      weight: 50
-    - identifier: ourActions
-      name: nos actions
-      url: /our-actions
-      weight: 40
-    - identifier: dkm/
-      name: dkm
-      url: /dkm
-      weight: 10
-    - identifier: download
-      name: télécharger
-      url: /download
-      weight: 20
-    - identifier: supportUS
-      name: nous aider
-      url: /support-us
-      weight: 30
-      
 markup:
   highlight:
     noClasses: false

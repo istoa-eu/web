@@ -2,7 +2,8 @@
 date: 2025-12-22
 title: 氣體模擬器
 source: http://source.st
-status: "developed" # developed | project | progress | improvement
+# status: developed | project | progress | improvement
+status: developed 
 cost: 2750
 financed: 80
 author: Hilaire Fernandes

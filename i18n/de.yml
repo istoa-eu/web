@@ -1,0 +1,18 @@
+- id: status
+  translation: "Status:"
+- id: license
+  translation: "Lizenz:"
+- id: source
+  translation: "Quellcode:"
+- id: development_cost
+  translation: "Entwicklungskosten:"
+- id: funded_cost
+  translation: "Finanzierter Betrag:"
+- id: developed
+  translation: "Entwickelt"
+- id: project
+  translation: "In Planung"
+- id: progress
+  translation: "In Entwicklung"
+- id: improvment
+  translation: "Verbesserung"

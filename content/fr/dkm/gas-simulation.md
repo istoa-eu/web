@@ -2,7 +2,7 @@
 date: 2025-12-14T13:20:57+01:00
 title: Simulateur de gaz
 source: http://source.st
-status: "developed" # developed | project | progress | improvement
+status: project # developed | project | progress | improvement
 cost: 2750
 financed: 80
 author: Hilaire Fernandes
