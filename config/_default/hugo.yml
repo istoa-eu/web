@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://istoa.frama.io/web"
 title: iStoa
 pagination:pagerSize: 5
 theme: PaperMod
