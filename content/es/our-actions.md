@@ -18,7 +18,7 @@ Desarrollamos software y documentación para aprender programación.
 * Libros para reforzar la cultura informática a través del código:
    * [The Cuis Book](https://drcuis.github.io/TheCuisBook/), para
      aprender programación con el entorno
-     [Cuis-Smalltalk](http://cuis).
+     [Cuis-Smalltalk](http://cuis.st).
    * The Morph Books, [vol. I](https://drcuis.github.io/DesignGUI) &
      [vol. II](https://drcuis.github.io/TheArtOfMorph), para
      desarrollar aplicaciones con interfaces gráficas en el entorno

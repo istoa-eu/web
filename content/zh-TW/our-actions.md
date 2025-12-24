@@ -13,7 +13,7 @@ title: 我們的行動
   引導的研究工作的一部分。
 * 通過程式碼強化電腦文化的書籍：
    * [The Cuis Book](https://drcuis.github.io/TheCuisBook/)，用於學習
-     [Cuis-Smalltalk](http://cuis) 環境下的程式設計。
+     [Cuis-Smalltalk](http://cuis.st) 環境下的程式設計。
    * The Morph Books，[第一卷](https://drcuis.github.io/DesignGUI) &
      [第二卷](https://drcuis.github.io/TheArtOfMorph)，用於在
      Cuis-Smalltalk 環境中開發圖形介面應用。

@@ -14,13 +14,13 @@ are customizable; thus, they can be integrated into various
 pedagogical scenarios designed by educators within a dedicated
 learning environment.
 
-### Dynamic Knowledge Modules (DKM)
+### Dynamic Knowledge Model (DKM)
 
-The DKMs build upon this idea of knowledge scripting for **dynamic
-simulations**, also known as **micro-worlds**. Scripting is no longer
-done through simple parameters but via a script that offers greater
-flexibility. The DKMs incorporate the scripting work developed in our
-[Dr. Geo](http://gnu.org/s/dr-geo) project and their use in
+The DKM build upon this idea of knowledge scripting for **dynamic
+simulations**, also known as **micro-worlds**. Customization is no
+longer done through simple parameters but via script that offers
+greater flexibility. The DKM incorporate the scripting work developed
+in our [Dr. Geo](http://gnu.org/s/dr-geo) project and their use in
 introductory [programming courses for secondary school
 students](https://gnu-drgeo.blogspot.com/search/label/DrGeoKid).
 
@@ -32,7 +32,8 @@ in the sciences, though not exclusively. Writing a small program
 mobilizes and reinforces several key notions in Mathematics, planning,
 rigor, communication, critical thinking.
 
-The DKMs, through their design and usage, are intended to reinforce these aspects.
+The DKM, through their design and usage, are intended to also
+reinforce these aspects.
 
 ### Technical Environment
 

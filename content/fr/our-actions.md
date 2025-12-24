@@ -17,8 +17,9 @@ programmation.
   recherche sur les artefacts, l'étayage pédagogique et le guidage
   notionnel
 * Des livres pour renforcer la culture informatique par le code :
-   * [The Cuis Book](https://drcuis.github.io/TheCuisBook/), pour apprendre la programmation avec
-     l'environnement [Cuis-Smalltalk](http://cuis)
+   * [The Cuis Book](https://drcuis.github.io/TheCuisBook/), pour
+     apprendre la programmation avec l'environnement
+     [Cuis-Smalltalk](http://cuis.st)
    * The Morph Books, [vol. I](https://drcuis.github.io/DesignGUI) &
      [vol. II](https://drcuis.github.io/TheArtOfMorph), pour
      développer des applications avec interfaces graphiques dans

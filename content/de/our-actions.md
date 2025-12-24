@@ -18,7 +18,7 @@ Programmierung.
   begriffliche Führung.
 * Bücher zur Stärkung der Informatikkultur durch Code:
    * [The Cuis Book](https://drcuis.github.io/TheCuisBook/), um
-     Programmieren mit der Umgebung [Cuis-Smalltalk](http://cuis) zu
+     Programmieren mit der Umgebung [Cuis-Smalltalk](http://cuis.st) zu
      lernen.
    * Die Morph Books, [Vol. I](https://drcuis.github.io/DesignGUI) &
      [Vol. II](https://drcuis.github.io/TheArtOfMorph), um Anwendungen

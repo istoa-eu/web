@@ -5,7 +5,7 @@ title: Our Actions
 
 We develop software and documentation for learning programming.
 
-* DKMs distributed within the *iStoa* simulation environment; see the
+* DKM distributed within the *iStoa* simulation environment; see the
   [Download](/download) page.
 * [Dr. Geo](http://gnu.org/s/dr-geo), an interactive geometry and
   programming environment. It was within this application that the DKM
@@ -15,7 +15,7 @@ We develop software and documentation for learning programming.
   artifacts, pedagogical scaffolding, and conceptual guidance.
 * Books to strengthen computer literacy through coding:
    * [The Cuis Book](https://drcuis.github.io/TheCuisBook/), for
-     learning programming with the [Cuis-Smalltalk](http://cuis)
+     learning programming with the [Cuis-Smalltalk](http://cuis.st)
      environment.
    * The Morph Books, [vol. I](https://drcuis.github.io/DesignGUI) &
      [vol. II](https://drcuis.github.io/TheArtOfMorph), for developing

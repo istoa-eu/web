@@ -12,7 +12,7 @@ title: 我们的行动
 * iStoa.net（不对公众开放），属于关于假说（artifacts）、教学支架和概念引导的研究工作的一部分。
 * 通过代码强化计算机文化的书籍：
    * [The Cuis Book](https://drcuis.github.io/TheCuisBook/)，用于学习
-     [Cuis-Smalltalk](http://cuis) 环境下的编程。
+     [Cuis-Smalltalk](http://cuis.st) 环境下的编程。
    * The Morph Books，[第一卷](https://drcuis.github.io/DesignGUI) &
      [第二卷](https://drcuis.github.io/TheArtOfMorph)，用于在
      Cuis-Smalltalk 环境中开发图形界面应用。
