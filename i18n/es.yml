@@ -24,3 +24,5 @@
   translation: "descargar"
 - id: support_us
   translation: "ayúdenos"
+- id: author
+  translation: "Autor:"
