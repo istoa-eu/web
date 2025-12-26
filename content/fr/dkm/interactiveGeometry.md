@@ -3,7 +3,7 @@ date: 2025-12-25
 title: Géométrie interactive
 ---
 Avec ce modèle, l'utilisateur construit des figures géométriques
-interactives. Les figures construites se déforment ensuite à la ouris.
+interactives. Les figures obtenues se déforment ensuite à la souris.
 En utilisant des scripts, nous créons une très grande variété de
 figure, dont certaines très complexes lorsque des boucles ou la
 récursivité sont mises en oeuvre.
