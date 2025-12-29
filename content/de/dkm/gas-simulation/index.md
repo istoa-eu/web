@@ -13,7 +13,7 @@ einschließlich des Gehäuses, mit der Maus anpassen. Eine beliebige
 Anzahl von Temperaturfühlern, die rechteckige Bereiche abdecken, ist
 ebenfalls verfügbar.
 
-![Gas Simulation](/dkm/gas-simulation.png#center)
+![Gas Simulation](gas-simulation.png#center)
 
 
 ```st

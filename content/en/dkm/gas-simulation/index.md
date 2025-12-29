@@ -13,7 +13,7 @@ including the enclosure, is adjusted with the mouse. An arbitrary
 number of temperature probes covering rectangular areas is also
 available.
 
-![Gas Simulation](dkm/gas-simulation.png#center)
+![Gas Simulation](gas-simulation.png#center)
 
 
 ```st

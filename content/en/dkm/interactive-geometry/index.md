@@ -12,7 +12,7 @@ or recursion are implemented.
 *This DKM will be an adaptation of [Dr. Geo](http://gnu.org/s/dr-geo),
  for joint use as a DKM module and standalone application.*
 
-![Interactive Geometry](/dkm/interactiveGeometry.png#center)
+![Interactive Geometry](interactiveGeometry.png#center)
 
 ```st
 | canvas r f u |

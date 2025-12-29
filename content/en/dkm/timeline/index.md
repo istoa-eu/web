@@ -1,13 +1,13 @@
 ---
 date: 2025-12-22
-title: Zeitleiste
+title: Timeline
 ---
-Das Modell ermöglicht die Darstellung einer Zeitleiste mit einer
-beliebigen Anzahl von Ereignissen. Jedes Ereignis umfasst ein Datum
-und eine Beschreibung. Eine Zeitleiste mit weit verstreuten
-Ereignissen lässt sich mit der Nachricht ```shrink``` komprimieren.
+The model allows representing a timeline with an arbitrary number of
+events. Each event includes a date and a description. A timeline with
+very scattered events can be compressed using the ```shrink```
+message.
 
-![Timeline](/dkm/timeline.png#center)
+![Timeline](timeline.png#center)
 
 
 ```st

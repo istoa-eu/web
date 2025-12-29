@@ -9,7 +9,7 @@ Lennard-Jones 原子間勢能的**真實氣體**。
 在模擬過程中，包括外殼在內的所有壁面的溫度設定值都可以透過滑鼠進行調節。
 此外還提供任意數量的覆蓋矩形區域的溫度探頭。
 
-![Gas Simulation](/dkm/gas-simulation.png#center)
+![Gas Simulation](gas-simulation.png#center)
 
 
 ```st

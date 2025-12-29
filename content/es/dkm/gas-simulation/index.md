@@ -13,7 +13,7 @@ paredes, incluido el recinto, se ajusta con el ratón. También está
 disponible un número arbitrario de sondas de temperatura que cubren
 zonas rectangulares.
 
-![Gas Simulation](/dkm/gas-simulation.png#center)
+![Gas Simulation](gas-simulation.png#center)
 
 
 ```st

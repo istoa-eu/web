@@ -12,7 +12,7 @@ recursividad.
 *Este DKM será una adaptación de [Dr. Geo](http://gnu.org/s/dr-geo),
  para su uso conjunto como módulo DKM y aplicación autónoma.*
 
-![Geometría Interactiva](/dkm/interactiveGeometry.png#center)
+![Geometría Interactiva](interactiveGeometry.png#center)
 
 ```st
 | canvas r f u |

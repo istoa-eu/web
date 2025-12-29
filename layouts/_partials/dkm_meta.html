@@ -1,6 +1,7 @@
+
 <div class="post-meta">
-{{ $data := .File.BaseFileName }}
-{{ with index .Site.Data.dkm $data }}
+  {{ $data := .File.ContentBaseName }}
+  {{ with index .Site.Data.dkm $data }}
    {{T "author" }} {{ .author }}</br> 
    v. {{ .version }} - api {{ .apiVersion }}</br>
    {{ T "status" }} {{ T .status }} </br>

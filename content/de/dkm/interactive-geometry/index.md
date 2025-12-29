@@ -1,19 +1,19 @@
 ---
 date: 2025-12-25
-title: Géométrie interactive
+title: Interaktive Geometrie
 ---
-Avec ce modèle, l'utilisateur construit des figures géométriques
-interactives. Les figures obtenues se déforment ensuite à la souris.
-En utilisant des scripts, nous créons une très grande variété de
-figure, dont certaines très complexes lorsque des boucles ou la
-récursivité sont mises en oeuvre.
 
-*Ce DKM sera une adaptation de [Dr. Geo](http://gnu.org/s/dr-geo),
-pour une utilisation conjointe comme module DKM et application
-autonome.*
+Mit diesem Modell erstellt der Benutzer interaktive geometrische
+Figuren. Die resultierenden Figuren lassen sich anschließend mit der
+Maus verformen. Mithilfe von Skripten erstellen wir eine große
+Vielfalt an Figuren, von denen einige sehr komplex sind, wenn
+Schleifen oder Rekursionen implementiert werden.
 
-![Géométrie Interactive](/dkm/interactiveGeometry.png#center)
+*Dieses DKM wird eine Anpassung von [Dr. Geo](http://gnu.org/s/dr-geo)
+ sein, zur gemeinsamen Nutzung als DKM-Modul und eigenständige
+ Anwendung.*
 
+![Interaktive Geometrie](interactiveGeometry.png#center)
 
 ```st
 | canvas r f u |

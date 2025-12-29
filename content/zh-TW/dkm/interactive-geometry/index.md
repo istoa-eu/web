@@ -10,7 +10,7 @@ title: 互動式幾何
 *該 DKM 將由 [Dr. Geo](http://gnu.org/s/dr-geo) 改編而來，可作為 DKM
  模組和獨立應用程式共同使用。*
 
-![互動式幾何](/dkm/interactiveGeometry.png#center)
+![互動式幾何](interactiveGeometry.png#center)
 
 ```st
 | canvas r f u |

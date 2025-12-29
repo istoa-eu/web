@@ -5,7 +5,7 @@ title: 時間軸
 該模型允許表示包含任意數量事件的時間軸。每個事件包括日期和描述。對於事
 件非常分散的時間軸，可以使用 ```shrink``` 訊息進行壓縮。
 
-![Timeline](/dkm/timeline.png#center)
+![Timeline](timeline.png#center)
 
 
 ```st

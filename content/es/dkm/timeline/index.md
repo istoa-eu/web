@@ -7,7 +7,7 @@ arbitrario de eventos. Cada evento incluye una fecha y una
 descripción. Una franja con eventos muy dispersos se comprime con el
 mensaje ```shrink```.
 
-![Timeline](/dkm/timeline.png#center)
+![Timeline](timeline.png#center)
 
 ```st
 Timeline title: 'Five Defining Moments of Alexander' ::

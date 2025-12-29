@@ -5,7 +5,7 @@ title: 时间轴
 该模型允许表示包含任意数量事件的时间轴。每个事件包括日期和描述。对于事
 件非常分散的时间轴，可以使用 ```shrink``` 消息进行压缩。
 
-![Timeline](/dkm/timeline.png#center)
+![Timeline](timeline.png#center)
 
 
 ```st

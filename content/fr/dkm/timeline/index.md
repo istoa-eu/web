@@ -7,7 +7,7 @@ arbitraire d'événements. Chaque événement comprend une date et une
 description. Une frise d'événements très dispersés se comprime avec le
 message ```shrink```.
 
-![Timeline](/dkm/timeline.png#center)
+![Timeline](timeline.png#center)
 
 
 ```st

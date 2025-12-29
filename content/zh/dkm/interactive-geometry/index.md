@@ -1,19 +1,16 @@
 ---
 date: 2025-12-25
-title: Interaktive Geometrie
+title: 交互式几何
 ---
 
-Mit diesem Modell erstellt der Benutzer interaktive geometrische
-Figuren. Die resultierenden Figuren lassen sich anschließend mit der
-Maus verformen. Mithilfe von Skripten erstellen wir eine große
-Vielfalt an Figuren, von denen einige sehr komplex sind, wenn
-Schleifen oder Rekursionen implementiert werden.
+通过该模型，用户可以构建交互式几何图形。得到的图形随后可以用鼠标进行变
+形。通过使用脚本，我们创建了种类繁多的图形，当应用循环或递归时，其中一
+些图形会变得非常复杂。
 
-*Dieses DKM wird eine Anpassung von [Dr. Geo](http://gnu.org/s/dr-geo)
- sein, zur gemeinsamen Nutzung als DKM-Modul und eigenständige
- Anwendung.*
+*该 DKM 将由 [Dr. Geo](http://gnu.org/s/dr-geo) 改编而来，可作为 DKM
+ 模块和独立应用程序共同使用。*
 
-![Interaktive Geometrie](/dkm/interactiveGeometry.png#center)
+![交互式几何](interactiveGeometry.png#center)
 
 ```st
 | canvas r f u |
