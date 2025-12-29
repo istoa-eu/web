@@ -13,7 +13,7 @@ parois, y compris l'enceinte, s'ajuste à la souris. Un nombre
 arbitraire de sondes de température couvrant des zones rectangulaires
 est également disponible.
 
-![Gas Simulation](gas-simulation.png#center)
+![Gas Simulation](/dkm/gas-simulation.png#center)
 
 
 ```st
