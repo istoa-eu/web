@@ -10,4 +10,4 @@ licencia
 defecto, queda bajo licencia [CC
 by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-[Saber más sobre los DKM](/about-dkm).
+[Saber más sobre los DKM](about-dkm).

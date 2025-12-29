@@ -1,16 +1,16 @@
 main:
   - name: dkm
-    url: /dkm
+    url: dkm
     weight: 10
   - name: herunterladen
-    url: /download
+    url: download
     weight: 20
   - name: unterstützen sie uns
-    url: /support-us
+    url: support-us
     weight: 30
   - name: unsere aktivitäten
-    url: /our-actions
+    url: our-actions
     weight: 40
   - name: über uns
-    url: /about
+    url: about
     weight: 50

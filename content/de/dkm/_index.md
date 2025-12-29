@@ -10,4 +10,4 @@ es unter die
 gestellt; andernfalls steht es unter der [CC
 by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/4.0/)-Lizenz.
 
-[Erfahren Sie mehr über DKMs](/about-dkm).
+[Erfahren Sie mehr über DKMs](about-dkm).

@@ -9,4 +9,4 @@ development cost of a DKM is funded, it is placed under the
 license; otherwise, it is under the [CC
 by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
 
-[Learn more about DKM](/about-dkm).
+[Learn more about DKM](about-dkm).

@@ -11,4 +11,4 @@ licence
 défaut il est sous licence [CC
 by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-[En apprendre davantage sur les DKM](/about-dkm).
+[En apprendre davantage sur les DKM](about-dkm).

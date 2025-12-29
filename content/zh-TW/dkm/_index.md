@@ -8,4 +8,4 @@ title: 動態知識模型
 佈；否則，它將採用 [CC
 by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/4.0/) 許可。
 
-[了解更多關於 DKM 的資訊](/about-dkm)。
+[了解更多關於 DKM 的資訊](about-dkm)。

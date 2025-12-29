@@ -8,4 +8,4 @@ title: 动态知识模型
 布；否则，它将采用 [CC
 by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/4.0/) 许可。
 
-[了解更多关于 DKM 的信息](/about-dkm)。
+[了解更多关于 DKM 的信息](about-dkm)。
