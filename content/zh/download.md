@@ -8,6 +8,6 @@ title: 下载
 
 *iStoa* 也是一个开发环境，因此您可以根据需要学习和修改 DKM 的代码。
 
-* [GNU/Linux]()
-* [Windows]()
-* [Mac OS X]()
+* [GNU/Linux](https://github.com/istoa-eu/app/releases/latest)
+* [Windows](https://github.com/istoa-eu/app/releases/latest)
+* [Mac OS X](https://github.com/istoa-eu/app/releases/latest)

@@ -10,6 +10,6 @@ bearbeiten, um Varianten zu erfinden.
 *iStoa* ist auch eine Entwicklungsumgebung, sodass Sie den Code der
 DKMs nach Belieben studieren und ändern können.
 
-* [GNU/Linux]()
-* [Windows]()
-* [Mac OS X]()
+* [GNU/Linux](https://github.com/istoa-eu/app/releases/latest)
+* [Windows](https://github.com/istoa-eu/app/releases/latest)
+* [Mac OS X](https://github.com/istoa-eu/app/releases/latest)

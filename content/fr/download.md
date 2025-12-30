@@ -10,7 +10,7 @@ nouveaux pour inventer des variantes.
 *iStoa* est également un environnement de développement, vous pouvez
  donc étudier et modifier à votre guise le code des DKM.
 
-* [GNU/Linux]()
-* [Windows]()
-* [Mac OS X]()
+* [GNU/Linux](https://github.com/istoa-eu/app/releases/latest)
+* [Windows](https://github.com/istoa-eu/app/releases/latest)
+* [Mac OS X](https://github.com/istoa-eu/app/releases/latest)
 
