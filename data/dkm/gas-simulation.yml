@@ -1,4 +1,4 @@
-source: DKM-Physics-GasSimulation.pck.st
+source: gas-simulation
 status: project # developed | project | progress | improvement
 cost: 2750
 financed: 80
