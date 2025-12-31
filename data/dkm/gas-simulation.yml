@@ -1,5 +1,5 @@
 source: gas-simulation
-status: project # developed | project | progress | improvement
+status: progress # developed | project | progress | improvement
 cost: 2750
 financed: 80
 author: Hilaire Fernandes
