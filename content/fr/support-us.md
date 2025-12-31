@@ -98,3 +98,13 @@ documentations](our-actions) sur la programmation, et en particulier
 avec l'environnement Cuis-Smalltalk.
 
 ### Parent
+
+Imaginer des scénarios d'utilisation de DKM pour illustrer des
+concepts auprès de vos enfants. Ils ont sans aucun doute de nombreuses
+questions qui s'illustrent avec un DKM.
+
+Une autre approche est de les aider à élaborer des scripts, c'est très
+stimulant intellectuellement.
+
+Ne pas hésiter à partager votre expérience et vos remarques, cela nous
+intéresse !
