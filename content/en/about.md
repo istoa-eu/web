@@ -2,6 +2,9 @@
 date: 2025-12-22
 title: About iStoa
 ---
+iStoa is a European non-profit organisation established in 2014. Its
+objective is to promote the development of computer-based learning
+environments.
 
 iStoa was born from the [research
 work](https://theses.fr/2010LIL10028) of Hilaire Fernandes regarding

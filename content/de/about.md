@@ -2,6 +2,9 @@
 date: 2025-12-22T16:01:52+01:00
 title: Über iStoa
 ---
+iStoa ist eine europäische gemeinnützige Organisation, die 2014
+gegründet wurde. Ihr Ziel ist es, die Entwicklung von
+computergestützten Lernumgebungen zu fördern.
 
 iStoa entstand aus den
 [Forschungsarbeiten](https://theses.fr/2010LIL10028) von Hilaire

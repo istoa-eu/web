@@ -1,5 +1,5 @@
 ---
-date: 2025-12-16T22:35:16+01:00
+date: 2025-12-31T10:38:16+01:00
 title: Nous aider
 ---
 
@@ -9,9 +9,6 @@ computationnelle, écrire des scripts pour concevoir des simulations
 basées sur ces modèles dynamiques est une approche originale et
 enrichissante de l'informatique, et de l'apprentissage plus
 globalement.
-
-Développer et promouvoir ces travaux demandent des ressources en temps
-et en moyens matériels.
 
 Il existe de nombreuses façons de soutenir nos travaux. Selon que vous
 êtes un enseignant, un professeur d'université, un parent, un
@@ -39,14 +36,14 @@ fois.
   pédagogiques ou dans votre blog, si vous en avez un.
 
 
-### Apprenant
+### Apprenant 
 
 En tant que tel tu peux t'initier à la programmation et exprimer ta
 créativité. Pour cela, dans [l'environnement iStoa](download), tu choisis un DKM
 qui t'intéresse et tu expérimentes l'écriture de scripts dans ce
 domaine. N'hésite pas à partager avec nous tes expériences !
 
-### Professeur d'université
+### Professeur d'université 
 
 * Dans l'enseignement de l'informatique ou des domaines connexes, lors
   de travaux de fin d'année ou de tout autre projet au long cours,
@@ -68,7 +65,7 @@ domaine. N'hésite pas à partager avec nous tes expériences !
 Ne pas hésiter à prendre contact avec nous pour échanger autour
 d'idées de recherche.
 
-### Développeur
+### Développeur 
 
 Si vous appréciez le développement de logiciels, vous trouverez
 l'expérience de concevoir un DKM à la fois stimulante
@@ -97,7 +94,7 @@ les utilisateurs finaux. Nous avons développé [plusieurs
 documentations](our-actions) sur la programmation, et en particulier
 avec l'environnement Cuis-Smalltalk.
 
-### Parent
+### Parent 
 
 Imaginer des scénarios d'utilisation de DKM pour illustrer des
 concepts auprès de vos enfants. Ils ont sans aucun doute de nombreuses
@@ -108,3 +105,22 @@ stimulant intellectuellement.
 
 Ne pas hésiter à partager votre expérience et vos remarques, cela nous
 intéresse !
+
+### Soutien financier
+
+Développer et promouvoir ces travaux demandent des ressources en temps
+et en moyens matériels. Pour chaque [module DKM](dkm) que nous
+développons, notre objectif final est de le mettre à disposition du
+public sous **licence libre**
+[LGPL](https://www.gnu.org/licenses/lgpl-3.0.html#license-text). Cependant,
+son développement n'est pas gratuit et nous proposons un financement
+participatif directement depuis sa page descriptive.
+
+En attendant que son coût de développement soit couvert, tout DKM déjà
+développé est disponible sous la **licence non libre** [CC
+by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Le financement dégagé aide au développement des objectifs de
+l'organisation iStoa.
+
+Pour d'autres formes de soutiens, ne pas hésiter à nous contacter.

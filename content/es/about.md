@@ -2,6 +2,9 @@
 date: 2025-12-22T16:00:52+01:00
 title: Acerca de iStoa
 ---
+iStoa es una organización europea sin ánimo de lucro establecida
+en 2014. Su objetivo es promover el desarrollo de entornos de
+aprendizaje informáticos.
 
 iStoa nació de los [trabajos de
 investigación](https://theses.fr/2010LIL10028) de Hilaire Fernandes sobre los

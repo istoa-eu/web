@@ -2,11 +2,15 @@
 date: 2025-12-16T22:34:52+01:00
 title: À-propos d'iStoa
 ---
+iStoa est une organisation européenne à but non lucratif établie
+en 2014. Elle a pour objectif de promouvoir le développement
+d'environnement d'apprentissage informatique.
 
-iStoa est né des [travaux de
+iStoa est née des [travaux de
 recherche](https://theses.fr/2010LIL10028) d'Hilaire Fernandes sur les
 environnements d'apprentissage. Un aspect des travaux portait sur les
-[artefacts comme objets d'apprentissage](https://rmod-files.lille.inria.fr/Team/Texts/Papers/Fern08a-C5-istoa-exercises.pdf). 
+[artefacts comme objets
+d'apprentissage](https://rmod-files.lille.inria.fr/Team/Texts/Papers/Fern08a-C5-istoa-exercises.pdf).
 
 Ces artefacts, pour répondre à la grande variété des situations
 d'apprentissage, sont paramétrables ; ainsi, il s'inscrivent dans

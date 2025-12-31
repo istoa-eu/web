@@ -2,6 +2,8 @@
 date: 2025-12-22T16:04:52+01:00
 title: 關於 iStoa
 ---
+iStoa 是一家成立於 2014 年的歐洲非營利組織。其目標是促進電腦學習環境的
+發展。
 
 iStoa 誕生於 Hilaire Fernandes 關於學習環境的[研究工
 作](https://theses.fr/2010LIL10028)。這項工作的一個方面側重於[作為學習
