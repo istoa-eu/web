@@ -1,4 +1,4 @@
-baseURL: "https://istoa-eu.github.io/web/"
+baseURL: "https://www.istoa.eu"
 title: iStoa
 pagination:pagerSize: 5
 theme: PaperMod
