@@ -109,7 +109,7 @@ params:
 
   ShowReadingTime: false
   ShowShareButtons: true
-  ShareButtons: ["reddit"]
+  ShareButtons: ["reddit", "linkedin", "twitter", "whatsapp"]
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
@@ -152,6 +152,8 @@ params:
       url:  "https://mamot.fr/@drgeo"
     - name: github
       url: "https://github.com/istoa-eu/app/"
+    - name: paypal
+      url: "https://www.paypal.com/donate/?hosted_button_id=QNGHXFG7PXNB6"
 
   analytics:
     google:

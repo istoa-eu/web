@@ -13,6 +13,26 @@ There are many ways to support our work. Whether you are a teacher, a
 university professor, a parent, a learner, an occasional or seasoned
 developer, you have different possible approaches to support us.
 
+### Financial Support
+
+Developing and promoting this work requires resources in time and
+material means. For each [DKM module](dkm) that we develop, our final
+goal is to make it available to the public under an **open license**
+[LGPL](https://www.gnu.org/licenses/lgpl-3.0.html#license-text). However,
+its development is not free, and we offer crowdfunding directly from
+its descriptive page.
+
+Until its development cost is covered, any DKM already developed is
+available under the **non-free license** [CC
+by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+The funding raised helps in the development of the objectives of the
+iStoa organisation.
+
+{{< istoapaypal >}}
+
+For other forms of support, do not hesitate to contact us.
+
 ### Teacher
 
 * Write scripts to create simulations in your classes.
@@ -97,20 +117,3 @@ intellectually stimulating.
 Do not hesitate to share your experience and remarks; we are
 interested!
 
-### Financial Support
-
-Developing and promoting this work requires resources in time and
-material means. For each [DKM module](dkm) that we develop, our final
-goal is to make it available to the public under an **open license**
-[LGPL](https://www.gnu.org/licenses/lgpl-3.0.html#license-text). However,
-its development is not free, and we offer crowdfunding directly from
-its descriptive page.
-
-Until its development cost is covered, any DKM already developed is
-available under the **non-free license** [CC
-by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/4.0/).
-
-The funding raised helps in the development of the objectives of the
-iStoa organisation.
-
-For other forms of support, do not hesitate to contact us.

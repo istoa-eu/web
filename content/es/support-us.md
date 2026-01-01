@@ -7,6 +7,19 @@ Deseamos poner a disposición del mayor número posible de personas los modelos 
 
 Existen muchas formas de apoyar nuestro trabajo. Ya sea usted profesor, profesor universitario, padre, alumno, desarrollador ocasional o experimentado, tiene diferentes enfoques posibles para apoyarnos.
 
+### Apoyo financiero
+
+Desarrollar y promover estos trabajos requiere recursos en tiempo y medios materiales. Para cada [módulo DKM](dkm) que desarrollamos, nuestro objetivo final es ponerlo a disposición del público bajo **licencia libre** [LGPL](https://www.gnu.org/licenses/lgpl-3.0.html#license-text). Sin embargo, su desarrollo no es gratuito y ofrecemos financiación colectiva directamente desde su página descriptiva.
+
+Mientras no se cubra su coste de desarrollo, cualquier DKM ya desarrollado está disponible bajo la **licencia no libre** [CC by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+La financiación obtenida ayuda al desarrollo de los objetivos de la organización iStoa.
+
+{{< istoapaypal >}}
+
+Para otras formas de apoyo, no dude en contactarnos.
+
+
 ### Profesor
 
 * Escribir scripts para realizar simulaciones en sus clases.
@@ -50,12 +63,3 @@ Otro enfoque es ayudarlos a elaborar scripts; es muy estimulante intelectualment
 
 ¡No dude en compartir su experiencia y sus comentarios, nos interesa!
 
-### Apoyo financiero
-
-Desarrollar y promover estos trabajos requiere recursos en tiempo y medios materiales. Para cada [módulo DKM](dkm) que desarrollamos, nuestro objetivo final es ponerlo a disposición del público bajo **licencia libre** [LGPL](https://www.gnu.org/licenses/lgpl-3.0.html#license-text). Sin embargo, su desarrollo no es gratuito y ofrecemos financiación colectiva directamente desde su página descriptiva.
-
-Mientras no se cubra su coste de desarrollo, cualquier DKM ya desarrollado está disponible bajo la **licencia no libre** [CC by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/4.0/).
-
-La financiación obtenida ayuda al desarrollo de los objetivos de la organización iStoa.
-
-Para otras formas de apoyo, no dude en contactarnos.

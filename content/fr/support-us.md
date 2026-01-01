@@ -10,10 +10,33 @@ basées sur ces modèles dynamiques est une approche originale et
 enrichissante de l'informatique, et de l'apprentissage plus
 globalement.
 
+
 Il existe de nombreuses façons de soutenir nos travaux. Selon que vous
 êtes un enseignant, un professeur d'université, un parent, un
 apprenant, un développeur occasionnel ou chevronné, vous avez
 différentes approches possibles pour nous soutenir.
+
+
+### Soutien financier
+
+Développer et promouvoir ces travaux demandent des ressources en temps
+et en moyens matériels. Pour chaque [module DKM](dkm) que nous
+développons, notre objectif final est de le mettre à disposition du
+public sous **licence libre**
+[LGPL](https://www.gnu.org/licenses/lgpl-3.0.html#license-text). Cependant,
+son développement n'est pas gratuit et nous proposons un financement
+participatif directement depuis sa page descriptive.
+
+En attendant que son coût de développement soit couvert, tout DKM déjà
+développé est disponible sous la **licence non libre** [CC
+by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Le financement dégagé aide au développement des objectifs de
+l'organisation iStoa.
+
+{{< istoapaypal >}}
+
+Pour d'autres formes de soutiens, ne pas hésiter à nous contacter.
 
 ### Enseignant
 
@@ -106,21 +129,3 @@ stimulant intellectuellement.
 Ne pas hésiter à partager votre expérience et vos remarques, cela nous
 intéresse !
 
-### Soutien financier
-
-Développer et promouvoir ces travaux demandent des ressources en temps
-et en moyens matériels. Pour chaque [module DKM](dkm) que nous
-développons, notre objectif final est de le mettre à disposition du
-public sous **licence libre**
-[LGPL](https://www.gnu.org/licenses/lgpl-3.0.html#license-text). Cependant,
-son développement n'est pas gratuit et nous proposons un financement
-participatif directement depuis sa page descriptive.
-
-En attendant que son coût de développement soit couvert, tout DKM déjà
-développé est disponible sous la **licence non libre** [CC
-by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/4.0/).
-
-Le financement dégagé aide au développement des objectifs de
-l'organisation iStoa.
-
-Pour d'autres formes de soutiens, ne pas hésiter à nous contacter.

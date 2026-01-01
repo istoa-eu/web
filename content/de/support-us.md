@@ -7,6 +7,18 @@ Wir möchten die von uns entwickelten dynamischen Modelle so vielen Menschen wie
 
 Es gibt viele Möglichkeiten, unsere Arbeit zu unterstützen. Ob Sie Lehrer, Universitätsprofessor, Elternteil, Lernender, Gelegenheits- oder erfahrener Entwickler sind, Sie haben verschiedene Ansätze, um uns zu unterstützen.
 
+### Finanzielle Unterstützung
+
+Die Entwicklung und Förderung dieser Arbeiten erfordert zeitliche Ressourcen und materielle Mittel. Für jedes von uns entwickelte [DKM-Modul](dkm) ist es unser Endziel, es der Öffentlichkeit unter einer **freien Lizenz** [LGPL](https://www.gnu.org/licenses/lgpl-3.0.html#license-text) zur Verfügung zu stellen. Die Entwicklung ist jedoch nicht kostenlos, und wir bieten Crowdfunding direkt auf der Beschreibungsseite an.
+
+Bis die Entwicklungskosten gedeckt sind, ist jedes bereits entwickelte DKM unter der **nicht-freien Lizenz** [CC by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/4.0/) verfügbar.
+
+Die freigesetzten Mittel helfen bei der Entwicklung der Ziele der Organisation iStoa.
+
+{{< istoapaypal >}}
+
+Für andere Formen der Unterstützung zögern Sie bitte nicht, uns zu kontaktieren.
+
 ### Lehrer
 
 * Skripte schreiben, um Simulationen in Ihren Kursen durchzuführen.
@@ -50,12 +62,3 @@ Ein anderer Ansatz ist, ihnen bei der Erstellung von Skripten zu helfen; das ist
 
 Zögern Sie nicht, Ihre Erfahrungen und Anmerkungen mit uns zu teilen, wir sind daran interessiert!
 
-### Finanzielle Unterstützung
-
-Die Entwicklung und Förderung dieser Arbeiten erfordert zeitliche Ressourcen und materielle Mittel. Für jedes von uns entwickelte [DKM-Modul](dkm) ist es unser Endziel, es der Öffentlichkeit unter einer **freien Lizenz** [LGPL](https://www.gnu.org/licenses/lgpl-3.0.html#license-text) zur Verfügung zu stellen. Die Entwicklung ist jedoch nicht kostenlos, und wir bieten Crowdfunding direkt auf der Beschreibungsseite an.
-
-Bis die Entwicklungskosten gedeckt sind, ist jedes bereits entwickelte DKM unter der **nicht-freien Lizenz** [CC by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/4.0/) verfügbar.
-
-Die freigesetzten Mittel helfen bei der Entwicklung der Ziele der Organisation iStoa.
-
-Für andere Formen der Unterstützung zögern Sie bitte nicht, uns zu kontaktieren.
