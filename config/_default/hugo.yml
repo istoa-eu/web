@@ -1,7 +1,7 @@
 baseURL: "https://www.istoa.eu"
 title: iStoa
 pagination:pagerSize: 5
-theme: PaperMod
+theme: ["hugo-cloak-email", "PaperMod"]
 
 DefaultContentLanguage: en
 

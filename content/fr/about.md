@@ -17,6 +17,8 @@ d'apprentissage, sont paramétrables ; ainsi, il s'inscrivent dans
 divers scénarios pédagogiques conçus par le pédagogue dans un
 environnement d'apprentissage dédié.
 
+**{{< cloakemail address="contact@istoa.eu" display="Nous contacter." >}}**
+
 ### Modèles Dynamiques de Connaissance (DKM)
 
 Les DKM reprennent cette idée de scénarisation de la connaissance pour

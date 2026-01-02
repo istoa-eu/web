@@ -10,10 +10,10 @@ Simulationen auf der Grundlage dieser dynamischen Modelle ein
 origineller und bereichernder Ansatz für die Informatik und das Lernen
 im Allgemeinen.
 
-Es gibt viele Möglichkeiten, unsere Arbeit zu unterstützen. Ob Sie
-Lehrer, Universitätsprofessor, Elternteil, Lernender, Gelegenheits-
-oder erfahrener Entwickler sind, Sie haben verschiedene Ansätze, um
-uns zu unterstützen.
+Ob Sie Lehrer, Lernender, Entwickler, Elternteil oder Sponsor sind,
+zögern Sie nicht, {{< cloakemail address="contact@istoa.eu"
+display="uns zu kontaktieren" >}}, um Ihre Erfahrungen oder Ihre
+Fragen mit uns zu teilen.
 
 ### Finanzielle Unterstützung
 
@@ -35,8 +35,10 @@ Organisation iStoa.
 
 {{< istoapaypal >}}
 
-Für andere Formen der Unterstützung zögern Sie bitte nicht, [uns zu
-kontaktieren](about).
+Es gibt viele Möglichkeiten, unsere Arbeit zu unterstützen. Ob Sie
+Lehrer, Universitätsprofessor, Elternteil, Lernender, Gelegenheits-
+oder erfahrener Entwickler sind, Sie haben verschiedene Ansätze, um
+uns zu unterstützen.
 
 ### Lehrer
 
@@ -52,9 +54,8 @@ kontaktieren](about).
    Unsere Erfahrung beim Schreiben von Skripten zum Entwurf von
    Simulationen zeigt, dass dies für die Schüler sehr stimulierend
    ist, unabhängig von ihrem schulischen Niveau. Die pädagogischen
-   Sequenzen müssen natürlich sorgfältig ausgearbeitet werden. [Zögern
-   Sie nicht, uns zu kontaktieren, wenn Sie Hilfe benötigen](about).
-
+   Sequenzen müssen natürlich sorgfältig ausgearbeitet werden.
+   
 * Teilen Sie Ihre Erfahrungen, indem Sie sie in pädagogischen
   Zeitschriften oder in Ihrem Blog (falls vorhanden) hervorheben.
 
@@ -65,7 +66,7 @@ Als solcher kannst du dich in die Programmierung einführen lassen und
 deine Kreativität zum Ausdruck bringen. Dazu wählst du in der
 [iStoa-Umgebung](download) ein DKM aus, das dich interessiert, und
 experimentierst mit dem Schreiben von Skripten in diesem
-Bereich. [Zögere nicht, uns deine Erfahrungen mitzuteilen!](about)
+Bereich.
 
 ### Universitätsprofessor 
 
@@ -85,9 +86,6 @@ Bereich. [Zögere nicht, uns deine Erfahrungen mitzuteilen!](about)
   validiert werden sollen, ein pragmatischer und lohnender Ansatz für
   pädagogische Innovationen. Lesen Sie [unsere Artikel zu diesem
   Thema](https://gnu-drgeo.blogspot.com/search/label/DrGeoKid).
-
-[Zögern Sie nicht, Kontakt mit uns aufzunehmen, um sich über
-Forschungsideen auszutauschen](about).
 
 ### Entwickler 
 
@@ -127,7 +125,4 @@ mit einem DKM illustriert werden können.
 
 Ein anderer Ansatz ist, ihnen bei der Erstellung von Skripten zu
 helfen; das ist intellektuell sehr anregend.
-
-[Zögern Sie nicht, Ihre Erfahrungen und Anmerkungen mit uns zu teilen,
-wir sind daran interessiert](about)!
 

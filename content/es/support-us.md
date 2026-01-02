@@ -9,10 +9,10 @@ computacional, escribir scripts para diseñar simulaciones basadas en
 estos modelos dinámicos es un enfoque original y enriquecedor de la
 informática y del aprendizaje en general.
 
-Existen muchas formas de apoyar nuestro trabajo. Ya sea usted
-profesor, profesor universitario, padre, alumno, desarrollador
-ocasional o experimentado, tiene diferentes enfoques posibles para
-apoyarnos.
+Ya sea usted profesor, alumno, desarrollador, padre o patrocinador, no
+dude en {{< cloakemail address="contact@istoa.eu"
+display="contactarnos" >}} para compartir su experiencia o sus
+preguntas.
 
 ### Apoyo financiero
 
@@ -33,8 +33,10 @@ organización iStoa.
 
 {{< istoapaypal >}}
 
-Para otras formas de apoyo, no dude en [contactarnos](about).
-
+Existen muchas formas de apoyar nuestro trabajo. Ya sea usted
+profesor, profesor universitario, padre, alumno, desarrollador
+ocasional o experimentado, tiene diferentes enfoques posibles para
+apoyarnos.
 
 ### Profesor
 
@@ -49,8 +51,7 @@ Para otras formas de apoyo, no dude en [contactarnos](about).
    Nuestra experiencia sobre la escritura de scripts para diseñar
    simulaciones muestra que es muy estimulante para los alumnos,
    independientemente de su nivel escolar. Por supuesto, las
-   secuencias pedagógicas deben estar cuidadosamente elaboradas. [No
-   dude en contactarnos si necesita ayuda](about).
+   secuencias pedagógicas deben estar cuidadosamente elaboradas.
 
 * Compartir su experiencia valorándola en revistas pedagógicas o en su
   blog, si tiene uno.
@@ -61,7 +62,7 @@ Para otras formas de apoyo, no dude en [contactarnos](about).
 Como tal, puedes iniciarte en la programación y expresar tu
 creatividad. Para ello, en [el entorno iStoa](download), eliges un DKM
 que te interese y experimentas con la escritura de scripts en ese
-campo. [¡No dudes en compartir tus experiencias con nosotros!](about)
+campo.
 
 ### Profesor universitario 
 
@@ -80,9 +81,6 @@ campo. [¡No dudes en compartir tus experiencias con nosotros!](about)
   pragmático y relativamente gratificante de la innovación
   pedagógica. Lea [nuestros artículos sobre este
   tema](https://gnu-drgeo.blogspot.com/search/label/DrGeoKid).
-
-[No dude en ponerse en contacto con nosotros para intercambiar ideas
-de investigación](about).
 
 ### Desarrollador 
 
@@ -115,11 +113,10 @@ sobre programación, y en particular con el entorno Cuis-Smalltalk.
 
 ### Padre 
 
-Imagine escenarios de uso de DKM para ilustrar conceptos ante sus hijos. Sin duda, tienen muchas preguntas que pueden ilustrarse con un DKM.
+Imagine escenarios de uso de DKM para ilustrar conceptos ante sus
+hijos. Sin duda, tienen muchas preguntas que pueden ilustrarse con un
+DKM.
 
 Otro enfoque es ayudarlos a elaborar scripts; es muy estimulante
 intelectualmente.
-
-[¡No dude en compartir su experiencia y sus comentarios, nos
-interesa!](about)
 

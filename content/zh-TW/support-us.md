@@ -7,8 +7,9 @@ title: 提供幫助
 本來設計基於這些動態模型的模擬是電腦科學及更廣泛的學習領域中一種新穎且
 充實的方法。
 
-有很多方法可以支持我們的工作。無論您是教師、大學教授、家長、學習者，還
-是業餘或資深開發人員，您都有不同的方式可以支持我們。
+無論您是教師、學習者、開發人員、家長還是贊助商，請隨時 
+{{< cloakemail address="contact@istoa.eu" display="與我們聯繫" >}}，
+分享您的經驗或問題。
 
 ### 資金支持
 
@@ -24,8 +25,8 @@ by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/4.0/) 提供。
 
 {{< istoapaypal >}}
 
-如需其他形式的支持，[請隨時聯繫我們](about)。
-
+有很多方法可以支持我們的工作。無論您是教師、大學教授、家長、學習者，還
+是業餘或資深開發人員，您都有不同的方式可以支持我們。
 
 ### 教師
 
@@ -36,8 +37,7 @@ by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/4.0/) 提供。
   或者更好的是，兩者兼顧。
 
    我們在編寫腳本設計模擬方面的經驗表明，這對學生非常有啟發性，無論他
-   們的學業水平如何。當然，教學環節必須精心設計。如果您需要幫助，[請隨
-   時聯繫我們](about)。
+   們的學業水平如何。當然，教學環節必須精心設計。
 
 * 在教育雜誌或您的部落格（如果您有的話）上分享並推廣您的經驗。
 
@@ -46,7 +46,6 @@ by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/4.0/) 提供。
 
 作為學習者，你可以開始學習程式設計並發揮你的創造力。為此，在 [iStoa 環
 境](download) 中，你可以選擇一個你感興趣的 DKM，並嘗試在該領域編寫腳本。
-[請隨時與我們分享您的經驗！](about)
 
 ### 大學教授 
 
@@ -61,7 +60,6 @@ by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/4.0/) 提供。
   就感的方法。閱讀[我們關於該主題的文
   章](https://gnu-drgeo.blogspot.com/search/label/DrGeoKid)。
 
-[歡迎隨時聯繫我們交流研究思路](about)。
 
 ### 開發人員 
 
@@ -89,6 +87,4 @@ by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/4.0/) 提供。
 透過 DKM 得到直觀展示。
 
 另一種方法是幫助他們編寫腳本，這非常有助於智力開發。
-
-[請隨時分享您的經驗和建議，我們非常感興趣！](about)
 

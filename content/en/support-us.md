@@ -9,9 +9,9 @@ scripts to design simulations based on these dynamic models is an
 original and enriching approach to computing, and to learning more
 generally.
 
-There are many ways to support our work. Whether you are a teacher, a
-university professor, a parent, a learner, an occasional or seasoned
-developer, you have different possible approaches to support us.
+Whether you are a teacher, learner, developer, parent, or sponsor, do
+not hesitate to {{< cloakemail address="contact@istoa.eu"
+display="contact us" >}} to share your experience or your questions.
 
 ### Financial Support
 
@@ -31,7 +31,9 @@ iStoa organisation.
 
 {{< istoapaypal >}}
 
-For other forms of support, do not hesitate to [contact us](about).
+There are many ways to support our work. Whether you are a teacher, a
+university professor, a parent, a learner, an occasional or seasoned
+developer, you have different possible approaches to support us.
 
 ### Teacher
 
@@ -46,7 +48,7 @@ For other forms of support, do not hesitate to [contact us](about).
    Our experience in writing scripts to design simulations shows that
    it is very stimulating for students, regardless of their academic
    level. Educational sequences must, of course, be carefully
-   crafted. [Do not hesitate to contact us if you need help](about).
+   crafted.
 
 * Share your experience by highlighting it in educational journals or
   on your blog, if you have one.
@@ -57,7 +59,7 @@ For other forms of support, do not hesitate to [contact us](about).
 As such, you can learn the basics of programming and express your
 creativity. To do this, in [the iStoa environment](download), you
 choose a DKM that interests you and experiment with writing scripts in
-that field. [Do not hesitate to share your experiences with us!](about)
+that field.
 
 ### University Professor 
 
@@ -75,8 +77,6 @@ that field. [Do not hesitate to share your experiences with us!](about)
   the field, is a pragmatic and relatively rewarding approach to
   pedagogical innovation. Read [our articles on this
   subject](https://gnu-drgeo.blogspot.com/search/label/DrGeoKid).
-
-[Do not hesitate to contact us to discuss research ideas](about).
 
 ### Developer 
 
@@ -113,7 +113,4 @@ with a DKM.
 
 Another approach is to help them develop scripts; it is very
 intellectually stimulating.
-
-[Do not hesitate to share your experience and remarks; we are
-interested!](about)
 
