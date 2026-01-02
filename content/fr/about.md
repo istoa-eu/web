@@ -1,5 +1,5 @@
 ---
-date: 2025-12-16T22:34:52+01:00
+date: 2026-01-02
 title: À-propos d'iStoa
 ---
 iStoa est une organisation européenne à but non lucratif établie

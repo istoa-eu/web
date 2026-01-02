@@ -1,5 +1,5 @@
 ---
-date: 2025-12-31T10:38:16+01:00
+date: 2026-01-02
 title: Support us
 ---
 
@@ -31,7 +31,7 @@ iStoa organisation.
 
 {{< istoapaypal >}}
 
-For other forms of support, do not hesitate to contact us.
+For other forms of support, do not hesitate to [contact us](about).
 
 ### Teacher
 
@@ -46,7 +46,7 @@ For other forms of support, do not hesitate to contact us.
    Our experience in writing scripts to design simulations shows that
    it is very stimulating for students, regardless of their academic
    level. Educational sequences must, of course, be carefully
-   crafted. Do not hesitate to contact us if you need help.
+   crafted. [Do not hesitate to contact us if you need help](about).
 
 * Share your experience by highlighting it in educational journals or
   on your blog, if you have one.
@@ -57,7 +57,7 @@ For other forms of support, do not hesitate to contact us.
 As such, you can learn the basics of programming and express your
 creativity. To do this, in [the iStoa environment](download), you
 choose a DKM that interests you and experiment with writing scripts in
-that field. Do not hesitate to share your experiences with us!
+that field. [Do not hesitate to share your experiences with us!](about)
 
 ### University Professor 
 
@@ -76,7 +76,7 @@ that field. Do not hesitate to share your experiences with us!
   pedagogical innovation. Read [our articles on this
   subject](https://gnu-drgeo.blogspot.com/search/label/DrGeoKid).
 
-Do not hesitate to contact us to discuss research ideas.
+[Do not hesitate to contact us to discuss research ideas](about).
 
 ### Developer 
 
@@ -114,6 +114,6 @@ with a DKM.
 Another approach is to help them develop scripts; it is very
 intellectually stimulating.
 
-Do not hesitate to share your experience and remarks; we are
-interested!
+[Do not hesitate to share your experience and remarks; we are
+interested!](about)
 

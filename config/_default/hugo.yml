@@ -148,6 +148,8 @@ params:
         url:  download
 
   socialIcons:
+    - name: email
+      url: "mailto:contact@istoa.eu"
     - name: mastodon
       url:  "https://mamot.fr/@drgeo"
     - name: github

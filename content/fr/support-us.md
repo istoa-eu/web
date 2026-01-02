@@ -1,5 +1,5 @@
 ---
-date: 2025-12-31T10:38:16+01:00
+date: 2026-01-02
 title: Nous aider
 ---
 
@@ -36,7 +36,7 @@ l'organisation iStoa.
 
 {{< istoapaypal >}}
 
-Pour d'autres formes de soutiens, ne pas hésiter à nous contacter.
+Pour d'autres formes de soutiens, ne pas hésiter à [nous contacter](about).
 
 ### Enseignant
 
@@ -52,8 +52,8 @@ fois.
    Notre expérience, sur l'écriture de scripts pour concevoir des
    simulations, montre que c'est très stimulant pour les élèves, et ceci
    quelques soit leur niveau scolaire. Les séquences pédagogiques doivent
-   bien sûr être soigneusement confectionnées. Ne pas hésiter pas à nous
-   contacter si vous avez besoin d'aide.
+   bien sûr être soigneusement confectionnées. [Ne pas hésiter pas à nous
+   contacter si vous avez besoin d'aide](about).
 
 * Partager votre expérience en la valorisant dans des revues
   pédagogiques ou dans votre blog, si vous en avez un.
@@ -64,7 +64,7 @@ fois.
 En tant que tel tu peux t'initier à la programmation et exprimer ta
 créativité. Pour cela, dans [l'environnement iStoa](download), tu choisis un DKM
 qui t'intéresse et tu expérimentes l'écriture de scripts dans ce
-domaine. N'hésite pas à partager avec nous tes expériences !
+domaine. [N'hésite pas à partager avec nous tes expériences !](about)
 
 ### Professeur d'université 
 
@@ -85,8 +85,8 @@ domaine. N'hésite pas à partager avec nous tes expériences !
   pédagogique. Lire [nos articles sur ce
   sujet](https://gnu-drgeo.blogspot.com/search/label/DrGeoKid).
 
-Ne pas hésiter à prendre contact avec nous pour échanger autour
-d'idées de recherche.
+[Ne pas hésiter à prendre contact avec nous pour échanger autour
+d'idées de recherche](about).
 
 ### Développeur 
 
@@ -126,6 +126,6 @@ questions qui s'illustrent avec un DKM.
 Une autre approche est de les aider à élaborer des scripts, c'est très
 stimulant intellectuellement.
 
-Ne pas hésiter à partager votre expérience et vos remarques, cela nous
-intéresse !
+[Ne pas hésiter à partager votre expérience et vos remarques, cela nous
+intéresse !](about)
 
