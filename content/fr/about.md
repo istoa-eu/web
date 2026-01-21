@@ -17,14 +17,12 @@ d'apprentissage, sont paramétrables ; ainsi, il s'inscrivent dans
 divers scénarios pédagogiques conçus par le pédagogue dans un
 environnement d'apprentissage dédié.
 
-**{{< cloakemail address="contact@istoa.eu" display="Nous contacter." >}}**
-
 ### Modèles Dynamiques de Connaissance (DKM)
 
 Les DKM reprennent cette idée de scénarisation de la connaissance pour
 des **simulations dynamiques**, aussi nommés **micro-mondes**. La
 scénarisation ne se fait plus par paramètres mais par un script
-offrant une plus grand généralité. Les DKM reprennent les travaux
+offrant une plus grande généralité. Les DKM reprennent les travaux
 autour des scripts développés dans notre projet
 [Dr. Geo](http://gnu.org/s/dr-geo) et leurs utilisations dans des
 cours d'initiation à la [programmation avec des élèves du secondaire
@@ -47,5 +45,5 @@ renforcer ces aspects.
 Nous utilisons l'environnement [Cuis-Smalltalk](http://cuis.st) comme
 plate-forme de développement et de distribution de nos logiciels. Il
 regroupe des fonctionnalités précieuses comme un accès aisé au code,
-la programmation vive, un environnement graphique vectoriel, une
+la programmation vive, un environnement graphique vectoriel et une
 machine virtuelle optimisée pour plusieurs systèmes d'exploitations
