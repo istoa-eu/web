@@ -9,10 +9,6 @@ Maus verformen. Mithilfe von Skripten erstellen wir eine große
 Vielfalt an Figuren, von denen einige sehr komplex sind, wenn
 Schleifen oder Rekursionen implementiert werden.
 
-*Dieses DKM wird eine Anpassung von [Dr. Geo](http://gnu.org/s/dr-geo)
- sein, zur gemeinsamen Nutzung als DKM-Modul und eigenständige
- Anwendung.*
-
 ![Interaktive Geometrie](interactiveGeometry.png#center)
 
 ```st

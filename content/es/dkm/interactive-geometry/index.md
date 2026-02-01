@@ -9,9 +9,6 @@ ratón. Mediante el uso de scripts, creamos una gran variedad de
 figuras, algunas de ellas muy complejas cuando se implementan bucles o
 recursividad.
 
-*Este DKM será una adaptación de [Dr. Geo](http://gnu.org/s/dr-geo),
- para su uso conjunto como módulo DKM y aplicación autónoma.*
-
 ![Geometría Interactiva](interactiveGeometry.png#center)
 
 ```st

@@ -8,10 +8,6 @@ En utilisant des scripts, nous créons une très grande variété de
 figure, dont certaines très complexes lorsque des boucles ou la
 récursivité sont mises en oeuvre.
 
-*Ce DKM sera une adaptation de [Dr. Geo](http://gnu.org/s/dr-geo),
-pour une utilisation conjointe comme module DKM et application
-autonome.*
-
 ![Géométrie Interactive](interactiveGeometry.png#center)
 
 

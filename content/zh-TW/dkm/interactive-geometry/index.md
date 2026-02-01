@@ -7,9 +7,6 @@ title: 互動式幾何
 形。透過使用腳本，我們創建了種類繁多的圖形，當應用迴圈或遞迴時，其中一
 些圖形會變得非常複雜。
 
-*該 DKM 將由 [Dr. Geo](http://gnu.org/s/dr-geo) 改編而來，可作為 DKM
- 模組和獨立應用程式共同使用。*
-
 ![互動式幾何](interactiveGeometry.png#center)
 
 ```st

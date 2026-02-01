@@ -9,9 +9,6 @@ figures can then be deformed with the mouse. Using scripts, we create
 a very wide variety of figures, some of them very complex when loops
 or recursion are implemented.
 
-*This DKM will be an adaptation of [Dr. Geo](http://gnu.org/s/dr-geo),
- for joint use as a DKM module and standalone application.*
-
 ![Interactive Geometry](interactiveGeometry.png#center)
 
 ```st

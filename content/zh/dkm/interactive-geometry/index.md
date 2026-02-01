@@ -7,9 +7,6 @@ title: 交互式几何
 形。通过使用脚本，我们创建了种类繁多的图形，当应用循环或递归时，其中一
 些图形会变得非常复杂。
 
-*该 DKM 将由 [Dr. Geo](http://gnu.org/s/dr-geo) 改编而来，可作为 DKM
- 模块和独立应用程序共同使用。*
-
 ![交互式几何](interactiveGeometry.png#center)
 
 ```st
