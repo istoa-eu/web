@@ -2,7 +2,7 @@ source: timeline
 # developed | project | progress | improvement
 status: "developed"
 author: Hilaire Fernandes
-version: "1.10"
+version: "1.11"
 apiVersion: "25.11"
 cost: 1600
 financed: 105
