@@ -1,4 +1,4 @@
-baseURL: "https://www.istoa.eu"
+baseURL: "http://www.istoa.eu"
 title: iStoa
 pagination:pagerSize: 5
 theme: ["hugo-cloak-email", "PaperMod"]
